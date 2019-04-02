@@ -4,6 +4,7 @@ body{
 	margin:0;
 	font-size:1em;
 	font-family: 'Open Sans', sans-serif;
+	
 }
 
 h1.logo{
@@ -67,6 +68,11 @@ figure{
 	padding:0px;
 }
 .categories{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header{
   display: flex;
   align-items: center;
   justify-content: center;
